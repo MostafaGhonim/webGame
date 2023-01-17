@@ -2,7 +2,7 @@
     @font-face { font-family: inter; src: url('/assets/fonts/Inter-VariableFont_slnt,wght.ttf'); } 
 *{
     box-sizing: border-box;
-    font-family: 'inter';
+    font-family: 'Inter', sans-serif;
     scroll-behavior: smooth;
 }
 .conterner{
